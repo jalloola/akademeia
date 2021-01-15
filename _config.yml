@@ -22,9 +22,9 @@ google_analytics:
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: OPEN ACCESS
+title: AKADEMEIEA
 description: Akademeia is an open access multidisciplinary journal that was active from 2011 to 2014. All accepted articles underwent a  double-blinded peer review process facilitated by 2-3 experts in the field. Authors retain copyright over their own work under an Open Access Creative Commons License. 
-baseurl: "www.akademeia.ca" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://akademeia.ca" # the base hostname & protocol for your site, e.g. https://akademeia.ca
 github_username:  jalloola
 repository: jalloola.github.io/akademeia
