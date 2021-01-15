@@ -2,145 +2,57 @@
 layout: default
 ---
 
-## Welcome to another page
 
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
+# Akademeia Volume 1, Issue 1 (2011)
 * * *
+<br>
 
-### Here is an unordered list:
+## EDITORIAL BOARD
+[Download PDF](/pdf/vol1-iss1/EditorialBoard2011.pdf)
+<br>
+<br>
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
->[Volume 1, Issue 1 (2011)](./another-page.html)
->
->[Volume 2, Issue 1 (2012)](./another-page.html)
->
->[Volume 3, Issue 1 (2013)](./another-page.html)
->
->[Volume 4, Issue 1 (2014)](./another-page.html)
+## Articles
+1.  #### Real\-time FTIR monitoring of the photopolymerization of a pentaerythritol triacrylate\-based resin
+_Abderrazek Oueslati, Saber Kamoun, Faouzi Hlel, Mohamed Gargouri, Alain Fort_
+<br>**[Download PDF](/pdf/vol1-iss1/Oueslatietal-2011-1-1-ea0100.pdf)**
 
 
-##### <center>Thank you to the University of Calgary GSA for making this project possible </center>
+2.  #### Feasibility study on microwave joining of "green composites"
+_Inderdeep Singh, Pramendra Kumar Bajpai, Deepak Malik, Apurbba Kumar Sharma, Pradeep Kumar_
+<br>**[Download PDF](/pdf/vol1-iss1/Singhetal-2011-1-1-ea0101.pdf)**
+
+3.  #### War, Children and Altruism in J. D. Salinger\'s Nine Stories
+_Rachel Season McCoppin_
+<br>**[Download PDF](/pdf/vol1-iss1/McCoppin-2011-1-1-ea0102.pdf)**
+
+4.  #### Propagation of Microcracks in Bovine Osteonal Cortical Bone
+_Ahmad Raeisi Najafi, Kaveh PourAkbar Saffar, Ahmad Reza Arshi, Erfan Mallakin, Hamid
+Reza Katouzian, Mohammad Reza Eslami, Manssour H. Moeinzadeh_
+<br>**[Download PDF](/pdf/vol1-iss1/Najafietal-2011-1-1-ea0103.pdf)**
+
+5.  #### Decoding Intimate Suffering in Elsa Morante\'s La Storia
+_Christian Gabriele Moretti_
+<br>**[Download PDF](/pdf/vol1-iss1/Moretti-2011-1-1-ea0104.pdf)**
+
+6.  #### Structural single crystal 23Na and 31PMAS NMR and conductivity studies of Na2HP04NaH2PO4TeOH6
+_Hatem Derbel, Saber Kamoun, Faouzi Hlel, Mohamed Gargouri_
+<br>**[Download PDF](/pdf/vol1-iss1/Derbeletal-2011-1-1-ea0105.pdf)**
+
+7.  #### Piezoelectric field effects on sensitivity of Hall sensors based on AlGaAs-InGaAs-GaAs heterostructures
+_Lofti Bouzaiene, Larbi Sfaxi, and Hassen Maaref_
+<br>**[Download PDF](/pdf/vol1-iss1/Bouzaieneetal-2011-1-1-ea0106.pdf)**
+
+8.  #### A man in whom I have great confidence: A Discourse Analysis of Former President Olusegun Obasanjo\'s Farewell Speech to Nigerians
+_Emmanuel Adedayo Adedun and Agnes Adebukunola Atolagbe_
+<br>**[Download PDF](/pdf/vol1-iss1/AdedunandAtolagbe-2011-1-1-ea0107.pdf)**
+
+9.  #### Exploring Sartrean Freedom
+_Kathleen O\'Dwyer_
+<br>**[Download PDF](/pdf/vol1-iss1/ODwyer-2011-1-1-ea0108.pdf)**
 
 
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
-
-
-[back](./)
+<br>
+<br>
+<br>
+### [<<<Back to Homepage](./)

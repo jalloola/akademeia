@@ -1,8 +1,9 @@
-
 site_favicon: favicon.png
+logo: /assets/img/akademeialogo.png
+show_downloads: false
+google_analytics:
 
-# Welcome to Jekyll!
-#
+
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
@@ -21,15 +22,10 @@ site_favicon: favicon.png
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Akademeia
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: OPEN ACCESS
+description: Akademeia is an open access multidisciplinary journal that was active from 2011 to 2014. All accepted articles underwent a  double-blinded peer review process facilitated by 2-3 experts in the field. Authors retain copyright over their own work under an Open Access Creative Commons License. 
 baseurl: "www.akademeia.ca" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://akademeia.ca
-twitter_username: jekyllrb
+url: "https://akademeia.ca" # the base hostname & protocol for your site, e.g. https://akademeia.ca
 github_username:  jalloola
 repository: jalloola.github.io/akademeia
 
