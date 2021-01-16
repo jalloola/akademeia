@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# Akademeia Volume 4, Issue 1 (2011)
+# Akademeia Volume 4, Issue 1 (2014)
 * * *
 <br>
 
